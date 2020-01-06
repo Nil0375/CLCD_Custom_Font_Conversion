@@ -1,0 +1,10 @@
+C:\Users\khc00\Desktop\Custom_Font_Conversion\bin\Debug\Custom_Font_Conversion.exe
+C:\Users\khc00\Desktop\Custom_Font_Conversion\bin\Debug\Custom_Font_Conversion.pdb
+C:\Users\khc00\Desktop\Custom_Font_Conversion\bin\Debug\Custom_Font_Conversion.xml
+C:\Users\khc00\Desktop\Custom_Font_Conversion\obj\Debug\Custom_Font_Conversion.vbprojAssemblyReference.cache
+C:\Users\khc00\Desktop\Custom_Font_Conversion\obj\Debug\Custom_Font_Conversion.Form1.resources
+C:\Users\khc00\Desktop\Custom_Font_Conversion\obj\Debug\Custom_Font_Conversion.Resources.resources
+C:\Users\khc00\Desktop\Custom_Font_Conversion\obj\Debug\Custom_Font_Conversion.vbproj.GenerateResource.cache
+C:\Users\khc00\Desktop\Custom_Font_Conversion\obj\Debug\Custom_Font_Conversion.exe
+C:\Users\khc00\Desktop\Custom_Font_Conversion\obj\Debug\Custom_Font_Conversion.xml
+C:\Users\khc00\Desktop\Custom_Font_Conversion\obj\Debug\Custom_Font_Conversion.pdb
